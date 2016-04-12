@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Deck()
+comment0.text=\n\ Constructs\ a\ Deck\ object\ with\ 52\ Cards\n
+comment1.params=
+comment1.target=java.util.ArrayList\ getCards()
+comment1.text=\n\ Returns\ the\ Cards\ in\ the\ deck\n\ @return\ ArrayList<Card>\ The\ Cards\n
+comment2.params=
+comment2.target=int\ getNumCards()
+comment2.text=\n\ Return\ the\ number\ of\ Cards\ in\ the\ deck\n\ @return\ int\ Number\ of\ Cards\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ String\ representation\ of\ the\ Deck\n\ @return\ String\ representation\n
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=s
+comment1.target=void\ print(Shoe)
+comment1.text=\n\ Prints\ the\ contents\ of\ a\ Shoe\ in\ a\ table\n\ @param\ Shoe\ The\ shoe\n
+numComments=2

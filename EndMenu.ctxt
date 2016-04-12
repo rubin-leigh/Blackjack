@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=playerName\ dollars\ difference
+comment0.target=EndMenu(java.lang.String,\ double,\ double)
+comment0.text=\r\n\ Creates\ a\ new\ End\ Menu\ with\ a\ name,\ bank,\ and\ difference\ in\ the\ starting\ bank\ from\ the\ current\ bank\r\n\ @param\ String\ name\r\n\ @param\ double\ bank\r\n\ @param\ double\ difference\r\n
+comment1.params=
+comment1.target=void\ addButtons()
+comment1.text=\r\n\ Add\ JButtons\ to\ JFrame\r\n
+comment2.params=
+comment2.target=void\ addActions()
+comment2.text=\r\n\ Associates\ actions\ with\ JButtons\r\n
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=sound
+comment4.target=void\ loopSound(java.lang.String)
+comment4.text=\r\n\ Plays\ a\ sound\ in\ a\ loop\r\n\ @param\ String\ Name\ of\ the\ sound\r\n
+numComments=5
